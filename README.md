@@ -24,7 +24,7 @@ The program laid the groundwork for understanding the broader landscape of cyber
 - **Network Security**: Defending systems against attacks and ensuring safe communication across networks.
 - **Incident Response**: Developing and applying structured procedures to detect, respond to, and recover from security incidents.
 
-### 🛠Technical Skills
+### Technical Skills
 In addition to theoretical knowledge, I gained practical skills using industry-standard tools and platforms:
 
 - **Linux**: Navigating and managing systems via the command line.
@@ -37,7 +37,7 @@ In addition to theoretical knowledge, I gained practical skills using industry-s
 
 ---
 
-## 📂 Repository Structure
+## Directories
 
 Each subdirectory in this repository corresponds to one of the eight courses in the certificate. Files include notes, hands-on labs, practice exercises, and mini-projects that reflect my progress and learning outcomes from each course.
 
