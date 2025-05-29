@@ -1,28 +1,29 @@
-# 🚦 Play It Safe Manage Security Risks
+# 🛡️ Foundations of Cybersecurity
 
 ---
 
 ## 🎯 Module Overview
 
-The **Play It Safe: Manage Security Risks** module is all about mastering the art of identifying, assessing, and managing cybersecurity risks. Learn how to protect valuable digital assets by understanding threats and vulnerabilities inside and out.
+The **Foundations of Cybersecurity** module introduces the essential concepts and importance of cybersecurity in today’s digital landscape. It lays the groundwork for understanding how to protect information and systems from evolving cyber threats.
 
 ---
 
-## 📚 Key Topics Covered
+- 🔐 **What Is Cybersecurity?**  
+  Learn what cybersecurity means and why it’s crucial for protecting computers, networks, and data.
 
-- ⚖️ **Risk Management Fundamentals**  
-  Grasp the concept of risk and how organizations prioritize and handle it to stay secure.
+- 🕵️‍♂️ **Types of Cyber Threats**  
+  Explore common threats like malware, phishing, ransomware, social engineering, and insider attacks.
 
-- 🛡️ **Security Governance**  
-  Discover the role of policies, standards, and frameworks in guiding cybersecurity programs.
+- 👥 **The Cybersecurity Workforce**  
+  Discover various roles in cybersecurity, including analysts, engineers, and incident responders.
 
-- ⚠️ **Threats and Vulnerabilities**  
-  Dive into various cyber threats and weak points attackers might exploit.
+- 🛡️ **The CIA Triad**  
+  Understand the foundational principles of Confidentiality, Integrity, and Availability.
 
-- 🛠️ **Risk Mitigation Strategies**  
-  Explore practical controls, safeguards, and best practices to reduce security risks.
+- 📢 **Security Awareness**  
+  Recognize the importance of user and organizational responsibility in maintaining security.
 
-- 🚨 **Incident Response Basics**  
-  Learn how organizations prepare for, detect, and respond swiftly to security incidents.
+- 🔑 **Basic Security Concepts**  
+  Introduction to authentication, authorization, encryption, and risk management basics.
 
 ---
