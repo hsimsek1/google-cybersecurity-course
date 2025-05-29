@@ -26,11 +26,3 @@ The **Play It Safe: Manage Security Risks** module is all about mastering the ar
   Learn how organizations prepare for, detect, and respond swiftly to security incidents.
 
 ---
-
-## 💡 Why This Matters
-
-> *"Effective risk management is the backbone of any strong cybersecurity program."*  
->
-> This module equips you with the foundational skills to proactively manage risks, ensuring your organization stays resilient against cyber threats.
-
----
