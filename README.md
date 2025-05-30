@@ -6,6 +6,7 @@ This space contains all the projects, notes, and write-ups I completed throughou
 
 ## Certificate of Completion  
 View my official certificate on .... or ....
+[Coursera OMI0ZQ826JPA.pdf](https://github.com/user-attachments/files/20526630/Coursera.OMI0ZQ826JPA.pdf)
 
 ---
 
