@@ -5,8 +5,7 @@ Welcome to my repository documenting my journey through the **Google Cybersecuri
 This space contains all the projects, notes, and write-ups I completed throughout the program. Each directory corresponds to a specific course in the certificate, organized in the sequence they were completed.
 
 ## Certificate of Completion  
-View my official certificate on .... or ....
-[Coursera OMI0ZQ826JPA.pdf](https://github.com/user-attachments/files/20526630/Coursera.OMI0ZQ826JPA.pdf)
+View my official certificate on [Coursera OMI0ZQ826JPA.pdf](https://github.com/user-attachments/files/20526630/Coursera.OMI0ZQ826JPA.pdf) 
 
 ---
 
